@@ -1,4 +1,4 @@
-# CS193p_SetCardGame
+Set (Card Game)
 ## Learn Swift/SwiftUI @ Stanford CS193p, Assignment3
 
 Learn Swift/SwiftUI
