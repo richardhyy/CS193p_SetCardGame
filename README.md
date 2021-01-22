@@ -1,4 +1,4 @@
-Set (Card Game)
+# Set (Card Game)
 ## Learn Swift/SwiftUI @ Stanford CS193p, Assignment3
 
 Learn Swift/SwiftUI
